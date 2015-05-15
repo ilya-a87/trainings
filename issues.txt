@@ -1,0 +1,7 @@
+java.lang.ClassNotFoundException: org.springframework.web.servlet.DispatcherServlet:
+http://stackoverflow.com/questions/11227395/java-lang-classnotfoundexception-org-springframework-web-servlet-dispatcherserv
+
+Tomcat deploy:
+correct dependency in pom.xml for spring-webmvc
+
+It is runnable on Tomcat 8
